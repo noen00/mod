@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="stuff" gfx="1.png" description="It smells like ashes and anger" quality="4" cache="damage firedelay" />
+    <passive id="2" name="things" gfx="collectibles_106_dice.png" description="It smells like ashes and anger" quality="4" cache="damage firedelay" />
+</items>
