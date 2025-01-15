@@ -1,4 +1,5 @@
-<items gfxroot="gfx/items/" version="1">
+<items gfxroot="resources/gfx/items/collectibles/" version="1">
     <passive id="1" name="stuff" gfx="1.png" description="It smells like ashes and anger" quality="4" cache="damage firedelay" />
-    <passive id="2" name="things" gfx="collectibles_106_dice.png" description="It smells like ashes and anger" quality="4" cache="damage firedelay" />
+    <passive id="3" name="things" gfx="collectibles_105_dice.png" description="It smells like ashes and anger" quality="4" cache="damage firedelay" />
+    <active id="2" maxcharges="15" name="eksempel" gfx="collectibles_105_dice.png" description="It smells like ashes and anger" quality="4"  chargetype="empty" />
 </items>
